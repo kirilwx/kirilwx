@@ -1,41 +1,33 @@
-<div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Architecture+%26+Optimization;Always+Learning" alt="Typing SVG" />
+# [kirilwx@github ~]$ whoami
 
-  <h3>Building scalable systems with clean code & coffee ☕</h3>
+> **Position:** Full Stack Developer & Systems Enthusiast
+> **Philosophy:** Clean architecture or nothing. Bridging high-level web with low-level logic.
+> **Current OS:** macOS (MacBook Pro)
 
-  <br/>
+---
 
-  <p align="center">
-     Creating high-performance solutions combining low-level logic (C/C++) <br/>
-     with modern web technologies. Focused on security, efficiency, and aesthetics.
-  </p>
+### $ ls -la /skills/core
 
-  <br/>
+* **Languages:** `C`, `C++`, `Python`, `JavaScript (ES6+)`, `SQL`
+* **Frontend:** `React`
+* **Hardware/IoT:** `ESP32 S3 (N16R8)`, `32U`, `WebOS Hacking (crashd)`
+* **Environment:** `Unix/Linux`, `Git`, `VS Code`
 
-  <h3>🛠 Tech Stack</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=py,js,cpp,c,react,postgres,git,linux,vscode,bash&theme=dark" />
-  </p>
+---
 
-  <br/>
+### $ cat projects_log.txt
 
-  <h3>📊 GitHub Analytics</h3>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kirilwx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirilwx&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-  </div>
+- **Hardware Clusters:** Working with ESP32 arrays for distributed tasks.
+- **Web Architectures:** Building scalable React apps with clean backend logic.
+- **System Security:** Researching vulnerabilities and rooting WebOS environments.
 
-  <br/>
+---
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirilwx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+### $ fetch --stats --minimal
 
-  <br/><br/>
-  
-  <p align="center">
-    <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/Contact_Me-Email-success?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+[![Kiril's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirilwx&show_icons=true&theme=transparent&text_color=7f7f7f&title_color=ffffff&icon_color=ffffff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+---
+
+### $ echo "Let's build something efficient."
+[Connect via Issues] | [Follow for Updates]
